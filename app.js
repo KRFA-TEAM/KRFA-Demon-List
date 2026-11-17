@@ -3,10 +3,10 @@
 const KEY='krfa_demonlist_v1';
 const seed={
  levels:[
-  {id:'demo-1',name:'Crimson Verdict',creator:'KRFA Community',verifier:'Nova',levelId:'00000001',rank:1,difficulty:'Extreme Demon',tier:'main',video:'https://www.youtube.com/',description:'Sample entry — replace this with a real verified level.',records:[]},
-  {id:'demo-2',name:'Silent Cataclysm',creator:'PixelRift',verifier:'Aster',levelId:'00000002',rank:2,difficulty:'Extreme Demon',tier:'main',video:'https://www.youtube.com/',description:'Sample entry — replace this with a real verified level.',records:[]},
-  {id:'demo-3',name:'Afterburn',creator:'Luma',verifier:'Luma',levelId:'00000003',rank:3,difficulty:'Extreme Demon',tier:'main',video:'https://www.youtube.com/',description:'Sample entry — replace this with a real verified level.',records:[]},
-  {id:'demo-4',name:'Glass Horizon',creator:'Miro',verifier:'Miro',levelId:'00000004',rank:4,difficulty:'Extreme Demon',tier:'extended',video:'https://www.youtube.com/',description:'Sample extended-list entry.',records:[]}
+  {id:'demo-1',name:'None',creator:'o',verifier:'o',levelId:'00000001',rank:1,difficulty:'Extreme Demon',tier:'main',video:'https://www.youtube.com/',description:'Sample entry — replace this with a real verified level.',records:[]},
+  {id:'demo-2',name:'None',creator:'o',verifier:'o',levelId:'00000002',rank:2,difficulty:'Extreme Demon',tier:'main',video:'https://www.youtube.com/',description:'Sample entry — replace this with a real verified level.',records:[]},
+  {id:'demo-3',name:'None',creator:'o',verifier:'o',levelId:'00000003',rank:3,difficulty:'Extreme Demon',tier:'main',video:'https://www.youtube.com/',description:'Sample entry — replace this with a real verified level.',records:[]},
+  {id:'demo-4',name:'None',creator:'o',verifier:'o',levelId:'00000004',rank:4,difficulty:'Extreme Demon',tier:'extended',video:'https://www.youtube.com/',description:'Sample extended-list entry.',records:[]}
  ],
  players:[{name:'Nova',points:120,completions:['Crimson Verdict']},{name:'Aster',points:95,completions:['Silent Cataclysm']},{name:'Luma',points:70,completions:['Afterburn']}],
  submissions:[]
